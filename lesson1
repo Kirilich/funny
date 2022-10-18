@@ -1,0 +1,7 @@
+#define 😂 a % 2
+#define 🍆 a * 9
+#define 💦 a * 8
+
+int simpleMultiplication(int a) {
+  return 😂 ? 🍆 : 💦;
+}
